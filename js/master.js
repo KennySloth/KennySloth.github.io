@@ -1,4 +1,4 @@
-function Deported(){
+function Mexico(){
 	alert("Raped");
 	window.open('https://www.migrant-rights.org/wp-content/themes/migrantrights/images/_campaigns/scene-01-stamp.png');
 }
