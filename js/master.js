@@ -1,6 +1,6 @@
 function Mexico(){
 	alert("Raped");
-	window.open('https://www.migrant-rights.org/wp-content/themes/migrantrights/images/_campaigns/scene-01-stamp.png');
+	window.open('https://www.youtube.com/channel/UCZNGLuKn91w3hEuFoFQIz1A/videos');
 }
 function Canada(){
 	alert("im very sorry but we dont want you by our  snowmen or our milk because your going to take all of it");
