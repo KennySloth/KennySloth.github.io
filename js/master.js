@@ -1,6 +1,6 @@
-function Meme(){
-	alert("Dank");
-	window.open('https://www.youtube.com/watch?v=dprHL6nm18o');
+function Deported(){
+	alert("Raped");
+	window.open('https://www.migrant-rights.org/wp-content/themes/migrantrights/images/_campaigns/scene-01-stamp.png');
 }
 function Even More Meme(){
 	alert("im very sorry but we dont want you by our  snowmen or our milk because your going to take all of it");
